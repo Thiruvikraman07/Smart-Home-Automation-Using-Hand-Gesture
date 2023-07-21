@@ -25,3 +25,7 @@ Smart Home Lighting System: The smart home lighting system receives the commands
 By integrating the laptop camera, Firebase, and Raspberry Pi, the system enables the user to control the brightness of the smart home lights using hand gestures. The laptop camera captures the gestures, which are recognized and classified using OpenCV and Mediapipe. The recognized gestures are then sent to the Raspberry Pi through Firebase. Finally, the Raspberry Pi communicates with the smart home lighting system to adjust the brightness level based on the recognized gestures.
 This system provides a convenient and hands-free control mechanism for the smart home lighting, allowing users to adjust the brightness level by simply making hand gestures in front of the laptop camera.
 
+
+https://github.com/Thiruvikraman07/Smart-Home-Automation-Using-Hand-Gesture/assets/40484639/4cb78e30-1ff1-4338-a274-9c1154578d50
+
+
